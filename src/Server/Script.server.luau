@@ -1,1 +1,1 @@
-print("Bok ide ide bok bok")
+print("KSAFSGASASGaS")

@@ -1,1 +1,1 @@
-print('Hello world, from server!!!!!!!!!!!!')
+print('bok bok bok')

@@ -1,1 +1,1 @@
-print("Dobrodosli!!")
+print("Bok ide ide bok")

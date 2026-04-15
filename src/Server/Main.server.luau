@@ -1,1 +1,1 @@
-print('bok bok b')
+print('Kako si Roblox?')
